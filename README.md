@@ -38,7 +38,6 @@ Sign-off: Full GDSII with DRC/LVS verification
 
 
 <img width="787" height="550" alt="Image" src="https://github.com/user-attachments/assets/142053b1-e576-45c9-93e4-0e319055cb76" />
-<img width="787" height="550" alt="Image" src="https://github.com/user-attachments/assets/2e48e028-7051-433c-9492-d591c2b9624d" />
 <img width="796" height="488" alt="Image" src="https://github.com/user-attachments/assets/9f7ae359-97ea-4316-924a-2b0864c115a4" />
 <img width="685" height="524" alt="Image" src="https://github.com/user-attachments/assets/f38ee531-3a18-48c9-84dd-db5a1360f5f8" />
 <img width="666" height="516" alt="Image" src="https://github.com/user-attachments/assets/30e4d012-6df0-4b63-a7bc-5d13ea40d4b9" />
